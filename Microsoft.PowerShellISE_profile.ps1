@@ -122,4 +122,4 @@ Set-ItemProperty -Path 'Registry::HKEY_LOCAL_MACHINE\System\CurrentControlSet\Co
 Return $NewPath
 }
 
-
+Write-host "Profile Script"
